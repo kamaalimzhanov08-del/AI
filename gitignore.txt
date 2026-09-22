@@ -1,0 +1,9 @@
+.DS_Store
+.remember/
+__pycache__/
+*.pyc
+.venv/
+measurements.json
+.env
+.env.*
+!.env.example
